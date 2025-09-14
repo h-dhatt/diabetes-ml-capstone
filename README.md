@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib scikit-learn statsmodels
 python analysis_script.py
 ```
 
-## Admissions-Ready Highlights (add to CV / SOP)
+## Highlights
 - *Led an end-to-end statistical analysis on a real clinical dataset:* data cleaning, OLS inference, cross-validated evaluation, and regularization comparison.
 - *Produced interpretable findings with confidence intervals and rigorous diagnostics.*
 - *Reproducible code and report hosted on GitHub.*
