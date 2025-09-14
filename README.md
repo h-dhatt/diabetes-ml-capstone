@@ -4,7 +4,6 @@
 Author: Harleen Dhatt
 
 **Author:** You (B.Sc. (Honours) Math & Stats, McMaster)  
-**Program Target:** master's program applications — MA in Mathematics & Statistics  
 **Dataset:** Real-world *Diabetes* dataset (scikit-learn). Outcome is a quantitative measure of disease progression one year after baseline.
 
 ## Objectives
