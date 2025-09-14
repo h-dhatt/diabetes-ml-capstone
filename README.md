@@ -1,9 +1,8 @@
 
 # Diabetes Disease Progression — Statistical Analysis (OLS + CV)
 
-Author: Harleen Dhatt
 
-**Author:** You (B.Sc. (Honours) Math & Stats, McMaster)  
+**Author:** Harleen Dhatt (B.Sc. (Honours) Math & Stats, McMaster)  
 **Dataset:** Real-world *Diabetes* dataset (scikit-learn). Outcome is a quantitative measure of disease progression one year after baseline.
 
 ## Objectives
